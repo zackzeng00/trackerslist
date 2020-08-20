@@ -1,23 +1,23 @@
 # ngosang/trackerslist
 Updated list of public BitTorrent trackers
 
-#### Updated: 2019-11-16
+#### Updated: 2020-08-20
 *These lists are automatically updated every day:*
 
-* trackers_best (20 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best.txt
-* trackers_all (84 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt
-* trackers_all_udp (43 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_udp.txt
-* trackers_all_http (31 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_http.txt
-* trackers_all_https (10 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_https.txt
-* trackers_all_ws (3 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ws.txt
+* trackers_best (20 trackers) => [link](https://ngosang.github.io/trackerslist/trackers_best.txt) / [mirror](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist/trackers_best.txt)
+* trackers_all (185 trackers) => [link](https://ngosang.github.io/trackerslist/trackers_all.txt) / [mirror](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist/trackers_all.txt)
+* trackers_all_udp (133 trackers) => [link](https://ngosang.github.io/trackerslist/trackers_all_udp.txt) / [mirror](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_udp.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist/trackers_all_udp.txt)
+* trackers_all_http (40 trackers) => [link](https://ngosang.github.io/trackerslist/trackers_all_http.txt) / [mirror](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_http.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist/trackers_all_http.txt)
+* trackers_all_https (12 trackers) => [link](https://ngosang.github.io/trackerslist/trackers_all_https.txt) / [mirror](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_https.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist/trackers_all_https.txt)
+* trackers_all_ws (11 trackers) => [link](https://ngosang.github.io/trackerslist/trackers_all_ws.txt) / [mirror](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ws.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist/trackers_all_ws.txt)
 
 Are you having DNS problems? These lists contains the same trackers but with IP addresses instead of domains:
-* trackers_best_ip (20 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best_ip.txt
-* trackers_all_ip (71 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ip.txt
+* trackers_best_ip (18 trackers) => [link](https://ngosang.github.io/trackerslist/trackers_best_ip.txt) / [mirror](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best_ip.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist/trackers_best_ip.txt)
+* trackers_all_ip (153 trackers) => [link](https://ngosang.github.io/trackerslist/trackers_all_ip.txt) / [mirror](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ip.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist/trackers_all_ip.txt)
 
 ##### Notes
 * A bot automatically checks the trackers and updates the lists.
-* Trackers with the same domain or pointing to the same IP address are removed. Check out the [blacklist](https://raw.githubusercontent.com/ngosang/trackerslist/master/blacklist.txt).
+* Trackers with the same domain or pointing to the same IP address are removed. Check out the [blacklist](blacklist.txt).
 * Trackers are sorted by popularity and latency (from best to worst).
 * WebSocket trackers (AKA WebTorrent, ws, wss) are supported by few clients. [More info](https://webtorrent.io).
 * Lists with IP addresses can be shorter because [Cloudflare IPs](https://www.cloudflare.com/ips/) are removed.
@@ -30,7 +30,7 @@ Are you having DNS problems? These lists contains the same trackers but with IP 
 ngosang [@] hotmail [.es]
 
 ##### Donations
-* [![Beerpay](https://beerpay.io/ngosang/trackerslist/badge.svg?style=flat)](https://beerpay.io/ngosang/trackerslist)
+* [![PayPal](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=X5NJLLX5GLTV6&source=url)
 * BTC: [1JMkeuLX9DA8sssZLSeSvSRvS1iVCu2wNT](https://btc.com/1JMkeuLX9DA8sssZLSeSvSRvS1iVCu2wNT)
 * ETH: [0x50A79a95878dd588A55E909dAc2eA3962D2fA46c](https://etherscan.io/address/0x50A79a95878dd588A55E909dAc2eA3962D2fA46c)
 
